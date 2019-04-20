@@ -1,34 +1,38 @@
-	body {
-		color: #224; /* darkslategray */ 
-		background-color: #fefefe;
-	}
-	
-  a {
-		text-decoration: none;
-	}
-  
-	a, a:visited {
-		color: #224;
-	}
+body {
+	color: #224; /* darkslategray */ 
+	background-color: #fefefe;
+}
 
-	.pure-table {
-		font-size: 16px;
-		font-family: monospace;
-		width: 100%;
-		background-color: #fff;
-		border: none;
-		box-shadow: 0px 0px 4px 0px #efefef;
-	}
-	.pure-table td, .pure-table th {
-		padding: 0.5em;	
-	}
-	.pure-table th {
-		font-family: sans-serif;	
-		font-size: 1.25em;
-                color: #fdfdfd;
-		background-color: mediumorchid;
-	}
+a {
+	text-decoration: none;
+}
 
-	.pure-table tbody tr:hover {
-		background-color: beige; 
-	}
+a:hover {
+	text-decoration: underline;	
+}
+
+a, a:visited {
+	color: #224;
+}
+
+.pure-table {
+	font-size: 16px;
+	font-family: monospace;
+	width: 100%;
+	background-color: #fff;
+	border: none;
+	box-shadow: 0px 0px 4px 0px #efefef;
+}
+.pure-table td, .pure-table th {
+	padding: 0.5em;	
+}
+.pure-table th {
+	font-family: sans-serif;	
+	font-size: 1.25em;
+            color: #fdfdfd;
+	background-color: mediumorchid;
+}
+
+.pure-table tbody tr:hover {
+	background-color: beige; 
+}
