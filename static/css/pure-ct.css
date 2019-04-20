@@ -7,8 +7,8 @@ a {
 	text-decoration: none;
 }
 
-a:hover {
-	color: deepblue;
+a.hoverable:hover {
+	color: mediumorchid;
 }
 
 
