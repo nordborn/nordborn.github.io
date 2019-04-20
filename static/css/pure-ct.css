@@ -35,6 +35,6 @@ a, a:visited {
 }
 
 .pure-table tbody tr:hover {
-	background-color: rgba(186, 85, 211, 0.1); /* mediumorchid 0.1 */
+	background-color: rgba(186, 85, 211, 0.05); /* mediumorchid 0.05 */
 }
 
