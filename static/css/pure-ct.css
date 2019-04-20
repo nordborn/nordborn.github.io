@@ -12,7 +12,7 @@ a.hoverable:hover {
 }
 
 
-a, a:visited {
+a, a.pure-menu-link, a:visited {
 	color: #224;
 }
 
