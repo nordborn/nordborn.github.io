@@ -1,3 +1,8 @@
+pre {
+	font-family: 'Roboto Mono', monospace;
+	font-weight: 300;
+}
+
 .bg-crystal {
 	background: mediumpurple!important;
 	color: #fff;
